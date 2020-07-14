@@ -14,7 +14,7 @@
   "dependencies": {
     "brain.js": "^1.6.1",
     "brainjs": "^0.7.4",
-    "esm": "^3.2.22",
+    "esm": "^3.2.25",
     "mocha": "^6.1.3"
   }
 }
